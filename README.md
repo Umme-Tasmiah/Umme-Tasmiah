@@ -1,6 +1,6 @@
 # Hi, I'm Umme Tasmiah 👋  
 
-B.Sc. Engineering in Electronics and Communication, Khulna University. 🎓  
+B.Sc. in Electronics and Communication Engineering, Khulna University. 🎓  
 Interested in **VLSI, digital design, and AI/ML applications**.
 
 ---
@@ -20,7 +20,3 @@ Interested in **VLSI, digital design, and AI/ML applications**.
 
 - **SynergyX 2024 Datathon** – 1st Place; ensemble ANN + XGBoost predictive model.  
 - **TechFusion 2024 Poster** – 1st Runner-Up; generative design & RL for UI/UX.
-
-## ☕ Fun Facts
-- I run on tea and curiosity.  
-- I simplify Karnaugh maps for fun. (Yes, really.)
